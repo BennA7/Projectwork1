@@ -1,1 +1,2 @@
 This is c.txt
+Add a new line in CR.
